@@ -1,0 +1,10 @@
+{
+  "httpMethod": "GET",
+  "path": "/hello",
+  "queryStringParameters": {
+    "name": "Lambda"
+  },
+  "headers": {},
+  "body": null,
+  "isBase64Encoded": false
+}
